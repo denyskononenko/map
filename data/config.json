@@ -1,13 +1,13 @@
 {
+  "styles": {
+    "lun_map": {
+      "style": "upload/lun-map.json"
+    }
+  },
+
   "data": {
     "metro": {
-      "mbtiles": "upload/lun_metro2033.mbtiles"
-    },
-    "metro2": {
-      "mbtiles": "upload/metro_names.mbtiles"
-    },
-    "metro3": {
       "mbtiles": "upload/metro.mbtiles"
-    }  
+    }
   }
 }
