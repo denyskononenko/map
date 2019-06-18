@@ -1,0 +1,93 @@
+{
+  "airport": {
+    "height": 80,
+    "pixelRatio": 2,
+    "width": 80,
+    "x": 0,
+    "y": 0
+  },
+  "cafe": {
+    "height": 80,
+    "pixelRatio": 2,
+    "width": 80,
+    "x": 80,
+    "y": 0
+  },
+  "educational": {
+    "height": 80,
+    "pixelRatio": 2,
+    "width": 80,
+    "x": 0,
+    "y": 80
+  },
+  "market": {
+    "height": 80,
+    "pixelRatio": 2,
+    "width": 80,
+    "x": 80,
+    "y": 80
+  },
+  "medical": {
+    "height": 80,
+    "pixelRatio": 2,
+    "width": 80,
+    "x": 160,
+    "y": 0
+  },
+  "metro-kharkiv-blue": {
+    "height": 38,
+    "pixelRatio": 2,
+    "width": 62,
+    "x": 100,
+    "y": 160
+  },
+  "metro-kharkiv-green": {
+    "height": 38,
+    "pixelRatio": 2,
+    "width": 62,
+    "x": 162,
+    "y": 160
+  },
+  "metro-kharkiv-red": {
+    "height": 38,
+    "pixelRatio": 2,
+    "width": 62,
+    "x": 224,
+    "y": 160
+  },
+  "metro-kyiv-blue": {
+    "height": 44,
+    "pixelRatio": 2,
+    "width": 50,
+    "x": 240,
+    "y": 80
+  },
+  "metro-kyiv-green": {
+    "height": 44,
+    "pixelRatio": 2,
+    "width": 50,
+    "x": 0,
+    "y": 160
+  },
+  "metro-kyiv-red": {
+    "height": 44,
+    "pixelRatio": 2,
+    "width": 50,
+    "x": 50,
+    "y": 160
+  },
+  "nature": {
+    "height": 80,
+    "pixelRatio": 2,
+    "width": 80,
+    "x": 240,
+    "y": 0
+  },
+  "sport": {
+    "height": 80,
+    "pixelRatio": 2,
+    "width": 80,
+    "x": 160,
+    "y": 80
+  }
+}
