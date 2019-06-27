@@ -2,6 +2,9 @@
   "styles": {
     "lun_map": {
       "style": "upload/lun-map-test.json"
+    },
+    "lun_map_sat": {
+      "style": "upload/satellite.json"
     }
   },
 
